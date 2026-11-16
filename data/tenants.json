@@ -1,0 +1,29 @@
+{
+    "tenant-1": {
+        "name": "Jan Nowak",
+        "apartment": "apart-polanka",
+        "room": "room-bigger",
+        "rent_pln": 1500.0,
+        "deposit_pln": 3000.0,
+        "date_agreement_from": "2024-01-01",
+        "date_agreement_to": "2024-12-31"
+    },
+    "tenant-2": {
+        "name": "Adam Kowalski",
+        "apartment": "apart-polanka",
+        "room": "room-medium",
+        "rent_pln": 1400.0,
+        "deposit_pln": 2900.0,
+        "date_agreement_from": "2024-01-01",
+        "date_agreement_to": "2024-12-31"
+    },
+    "tenant-3": {
+        "name": "Ewa Adamska",
+        "apartment": "apart-polanka",
+        "room": "room-smaller",
+        "rent_pln": 1300.0,
+        "deposit_pln": 2800.0,
+        "date_agreement_from": "2024-01-01",
+        "date_agreement_to": "2024-12-31"
+    }
+}
