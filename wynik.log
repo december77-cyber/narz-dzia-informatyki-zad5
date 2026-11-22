@@ -1,0 +1,18 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.14.6, pytest-9.2.0, pluggy-1.7.0 -- /Users/testowy/Desktop/kuba/PP/narzedzia-informatyki/zadanie5/ni-rent-lesson-5/.venv/bin/python3.14
+cachedir: .pytest_cache
+rootdir: /Users/testowy/Desktop/kuba/PP/narzedzia-informatyki/zadanie5/ni-rent-lesson-5
+collecting ... collected 10 items
+
+tests/test_complex_integration.py::test_apartment_costs_with_optional_parameters PASSED [ 10%]
+tests/test_complex_integration.py::test_create_apartment_settlement PASSED [ 20%]
+tests/test_complex_integration.py::test_create_tenants_settlements PASSED [ 30%]
+tests/test_integration.py::test_load_data PASSED                         [ 40%]
+tests/test_integration.py::test_tenants_in_manager PASSED                [ 50%]
+tests/test_integration.py::test_if_tenants_have_valid_apartment_keys PASSED [ 60%]
+tests/test_unit.py::test_apartment_fields PASSED                         [ 70%]
+tests/test_unit.py::test_apartment_from_dict PASSED                      [ 80%]
+tests/test_unit.py::test_tenant_fields PASSED                            [ 90%]
+tests/test_unit.py::test_tenant_from_dict PASSED                         [100%]
+
+============================== 10 passed in 0.16s ==============================
